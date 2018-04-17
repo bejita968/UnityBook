@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: ad61dc22001e44db2b5b22fcb43a22c2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rwrist
+    100002: Rfingers
+    100004: pelvis
+    100006: Lfoot
+    100008: Rthigh
+    100010: Lthumb
+    100012: Rthumb
+    100014: Lcalf
+    100016: Rshoulder
+    100018: CameraTargetDir
+    100020: Lforearm
+    100022: stomach
+    100024: Lshoulder
+    100026: neck
+    100028: Larm
+    100030: CameraTargetPos
+    100032: Rarm
+    100034: chest
+    100038: //RootNode
+    100040: Ribs
+    100042: Rfoot
+    100044: Lthigh
+    100046: head
+    100048: Rforearm
+    100050: Lfingers
+    100052: Lwrist
+    100054: Rweaponholder
+    100056: Rcalf
+    100058: Lgadgetholder
+    400000: Rwrist
+    400002: Rfingers
+    400004: pelvis
+    400006: Lfoot
+    400008: Rthigh
+    400010: Lthumb
+    400012: Rthumb
+    400014: Lcalf
+    400016: Rshoulder
+    400018: CameraTargetDir
+    400020: Lforearm
+    400022: stomach
+    400024: Lshoulder
+    400026: neck
+    400028: Larm
+    400030: CameraTargetPos
+    400032: Rarm
+    400034: chest
+    400038: //RootNode
+    400040: Ribs
+    400042: Rfoot
+    400044: Lthigh
+    400046: head
+    400048: Rforearm
+    400050: Lfingers
+    400052: Lwrist
+    400054: Rweaponholder
+    400056: Rcalf
+    400058: Lgadgetholder
+    4300000: player_mesh
+    4300002: baaba
+    7400000: InjuryIdleBack1
+    7400002: InjuryIdleFront1
+    7400004: InjuryIdleFront3
+    7400006: InjuryIdleFront2
+    7400008: InjuryIdleBack2
+    7400010: InjuryIdleRight1
+    7400012: InjuryIdleRight2
+    7400014: InjuryIdleBack3
+    7400016: InjuryIdleLeft1
+    7400018: InjuryIdleLeft2
+    7400020: InjuryUniversal1
+    7400022: InjuryUniversal2
+    7400024: InjuryUniversal3
+    7400026: InjuryCoverCrouchAimCenter
+    7400028: InjuryCoverStandIdle
+    7400030: InjuryCoverCrouchIdle
+    7400032: InjuryCoverStandAimLeft
+    7400034: InjuryCoverCrouchAimRight
+    7400036: InjuryCoverStandAimRight
+    7400038: InjuryCoverCrouchAimLeft
+    7400040: CoverStandAimRightStart
+    7400042: CoverStandAimRightBack
+    7400044: CoverStandAimLeftStart
+    7400046: CoverStandAimLeftBack
+    7400048: CoverCrouchAimRightStart
+    7400050: CoverCrouchAimRightBack
+    7400052: CoverCrouchAimCenterStart
+    7400054: CoverCrouchAimCenterBack
+    7400056: CoverCrouchAimLeftStart
+    7400058: CoverCrouchAimLeftBack
+    7400060: JumpOverToIdle
+    7400062: DeathCoverCrouchIdle
+    7400064: DeathCoverStandIdle
+    7400066: DeathCoverCrouchAimCenter
+    7400068: DeathCoverCrouchAimLeft
+    7400070: DeathCoverCrouchAimRight
+    7400072: DeathCoverStandAimLeft
+    7400074: DeathCoverStandAimRight
+    7400076: UseButton
+    7400078: UseWeaponbox
+    7400080: Use
+    7400082: Kick
+    7400084: CoverStandEnter
+    7400086: CoverStandLeave
+    7400088: CoverCrouchEnter
+    7400090: CoverCrouchLeave
+    7400092: CoverStandLeftLeave
+    7400094: CoverStandRightLeave
+    7400096: CoverCrouchLeftLeave
+    7400098: CoverCrouchRightLeave
+    7400100: IdleChangeWeapon
+    7400102: CoverStandChangeWeapon
+    7400104: CoverCrouchChangeWeapon
+    7400106: RunChangeWeapon
+    7400108: Land
+    7400110: CoverCrouchThrowLeft
+    7400112: CoverCrouchThrowRight
+    7400114: CoverStandThrowLeft
+    7400116: CoverStandThrowRight
+    7400118: CoverCrouchThrowCenter
+    7400120: IdleThrow
+    7400122: RunThrow
+    7400124: DeathIdleFront1
+    7400126: DeathIdleFront2
+    7400128: DeathIdleFront3
+    7400130: DeathRunL
+    7400132: DeathRunR
+    7400134: DeathRunF
+    7400136: MeleeKick
+    7400138: DeathMeleeKick
+    7400140: CoverCrouchThrowCenterR
+    7400142: CoverCrouchThrowCenterL
+    7400144: DeathMeleeKickBack
+    7400146: InjuryMeleeKick
+    7400148: InjuryMeleeKickBack
+    7400150: MeleeAttack1
+    7400152: MeleeAttack2
+    7400154: MeleeAtack3
+    7400156: DeathKO
+    7400158: InjuryKO1
+    7400160: InjuryKO2
+    7400162: InjuryKO3
+    7400164: CoverCrouchJumpUp
+    7400166: Drop
+    7400168: Tpose
+    7400170: TurnR
+    7400172: TurnL
+    7400174: UseWeaponBox
+    7400176: DeathIdle1
+    7400178: DeathIdle2
+    7400180: DeathIdle3
+    7400182: CoverCrouchThrowLeft 1
+    7400184: CoverCrouchThrowLeft 2
+    7400186: IdleReloadSMG
+    7400188: CoverCrouchStrafeRight
+    7400190: CoverStandStrafeRight
+    7400192: CoverCrouchLeaveHit
+    7400194: CoverStandLeaveHit
+    9500000: //RootNode
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'IdleThrow' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Lgadgetholder' has translation animation that
+      will be discarded.\n\t'Rweaponholder' has translation animation that will be
+      discarded.\n\nClip 'RunThrow' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Lgadgetholder' has translation animation that will be discarded.\n\t'Rweaponholder'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.025
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: InjuryIdleFront1
+      takeName: InjuryIdleFront1
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: InjuryIdleFront3
+      takeName: InjuryIdleFront3
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: InjuryIdleFront2
+      takeName: InjuryIdleFront2
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lthigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rthigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lcalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rcalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lfoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rfoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: stomach
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ribs
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lshoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rshoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Larm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lforearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rforearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lwrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rwrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Enemy(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mutant_mesh
+      parentName: Enemy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mutant_meshLod1
+      parentName: Enemy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mutant_meshLod2
+      parentName: Enemy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis
+      parentName: Enemy(Clone)
+      position: {x: -0, y: 0.99369985, z: 0}
+      rotation: {x: -0.49654284, y: 0.5034336, z: -0.4965427, w: 0.5034334}
+      scale: {x: 1, y: 1, z: 1}
+    - name: stomach
+      parentName: pelvis
+      position: {x: -0.20285247, y: -0.00000004887581, z: 1.7763568e-17}
+      rotation: {x: -0.00000016028346, y: 0.00000016551586, z: -0.016058037, w: 0.9998711}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Ribs
+      parentName: stomach
+      position: {x: -0.15207206, y: 0.00020905255, z: 0}
+      rotation: {x: -2.4678776e-14, y: -1.4538678e-14, z: 0.013232114, w: 0.99991244}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: chest
+      parentName: Ribs
+      position: {x: -0.16872406, y: -0.0022858, z: 3.6379787e-14}
+      rotation: {x: -2.6615582e-15, y: -1.4071955e-14, z: -0.062535174, w: 0.99804276}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Rshoulder
+      parentName: chest
+      position: {x: -0.18714492, y: -0.008507958, z: -3.6379787e-14}
+      rotation: {x: 0.36530203, y: 0.53174907, z: -0.57538253, w: 0.5027249}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Rarm
+      parentName: Rshoulder
+      position: {x: -0.2428812, y: 0.00074935914, z: -0.001896249}
+      rotation: {x: 0.0984887, y: 0.09569098, z: 0.09680845, w: 0.98578465}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Rforearm
+      parentName: Rarm
+      position: {x: -0.33385673, y: 0.0000016021728, z: 0.000000019073486}
+      rotation: {x: -0.11542615, y: 0.04039522, z: 0.002962135, w: 0.99248993}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Rwrist
+      parentName: Rforearm
+      position: {x: -0.33543375, y: -0.0037568663, z: -0.006091232}
+      rotation: {x: 0.7271985, y: 0.032193355, z: 0.004494407, w: 0.68565726}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Rweaponholder
+      parentName: Rwrist
+      position: {x: -0.000000114440915, y: 0.000000038146972, z: -0.00000015258789}
+      rotation: {x: 0.0000003687849, y: -0.7071068, z: 0.0000003687849, w: 0.7071068}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Rfingers
+      parentName: Rwrist
+      position: {x: -0.114370115, y: -0.0015478897, z: -0.0020076751}
+      rotation: {x: -0.06086416, y: -0.50659996, z: 0.07704367, w: 0.8565724}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rthumb
+      parentName: Rwrist
+      position: {x: 0.031436346, y: 0.034166526, z: -0.0279142}
+      rotation: {x: -0.7331484, y: -0.023891581, z: -0.35640147, w: 0.578706}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: neck
+      parentName: chest
+      position: {x: -0.19376907, y: -0.008859825, z: -7.2759575e-14}
+      rotation: {x: -0.0000009789702, y: -0.00000020400334, z: 0.20400333, w: 0.9789702}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: neck
+      position: {x: -0.10258896, y: -0.000000038146972, z: 0}
+      rotation: {x: -0.0000009902386, y: 0.00000013938214, z: -0.13938221, w: 0.99023867}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Hat_Target
+      parentName: head
+      position: {x: -0.10643005, y: 0.0015116882, z: 0.00000015258789}
+      rotation: {x: 0.4983985, y: -0.5015964, z: 0.4983985, w: 0.5015964}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999996}
+    - name: Lshoulder
+      parentName: chest
+      position: {x: -0.18714492, y: -0.008507958, z: -3.6379787e-14}
+      rotation: {x: -0.5027251, y: 0.575383, z: -0.5317487, w: -0.36530152}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Larm
+      parentName: Lshoulder
+      position: {x: -0.24288118, y: -0.00074966426, z: -0.0018962066}
+      rotation: {x: -0.09848819, y: 0.09569148, z: -0.096807994, w: 0.9857847}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lforearm
+      parentName: Larm
+      position: {x: -0.33385673, y: -0.000001373291, z: -0.0000001335144}
+      rotation: {x: 0.11542645, y: 0.04039469, z: -0.0029623727, w: 0.99249}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Lwrist
+      parentName: Lforearm
+      position: {x: -0.33543348, y: 0.0037568663, z: -0.0060910797}
+      rotation: {x: -0.7271988, y: 0.032193404, z: -0.0044946787, w: 0.68565696}
+      scale: {x: 0.99999994, y: 1, z: 0.99999976}
+    - name: Lfingers
+      parentName: Lwrist
+      position: {x: -0.11437, y: 0.0015478897, z: -0.0020076751}
+      rotation: {x: 0.06086415, y: -0.50659996, z: -0.07704366, w: 0.85657245}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.9999999}
+    - name: Lthumb
+      parentName: Lwrist
+      position: {x: 0.031436272, y: -0.03416649, z: -0.027913895}
+      rotation: {x: 0.73314834, y: -0.02389196, z: 0.35640177, w: 0.57870585}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999976}
+    - name: Rthigh
+      parentName: pelvis
+      position: {x: -0.0652111, y: -0.001877141, z: 0.11102256}
+      rotation: {x: -0.020981245, y: -0.0007105595, z: 0.99830383, w: 0.054303084}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Rcalf
+      parentName: Rthigh
+      position: {x: -0.4492408, y: -0.000000047683713, z: 0.000000019073486}
+      rotation: {x: -0.0011041025, y: -0.009197475, z: 0.13555364, w: 0.9907267}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+    - name: Rfoot
+      parentName: Rcalf
+      position: {x: -0.4905869, y: -0.000000042915342, z: -0.000000057220458}
+      rotation: {x: 0.00038616153, y: 0.00035724018, z: -0.6796021, w: 0.73358077}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Lthigh
+      parentName: pelvis
+      position: {x: -0.06653595, y: -0.0018588698, z: -0.11}
+      rotation: {x: 0.05436067, y: 0.9982899, z: -0.00071888254, w: -0.02148816}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Lcalf
+      parentName: Lthigh
+      position: {x: -0.45058784, y: 0.00000016212464, z: 0.000000114440915}
+      rotation: {x: 0.0011624045, y: -0.009706143, z: -0.13578677, w: 0.9906899}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Lfoot
+      parentName: Lcalf
+      position: {x: -0.49062783, y: 0.000000019073486, z: 0.000000009536743}
+      rotation: {x: -0.0004032734, y: 0.00037409103, z: 0.6797332, w: 0.73345923}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: a1172801cc64d474bb0e48c03b543a5a,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

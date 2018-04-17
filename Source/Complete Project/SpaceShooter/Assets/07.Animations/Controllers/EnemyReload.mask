@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: EnemyReload
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: pelvis
+    m_Weight: 1
+  - m_Path: pelvis/stomach
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/neck
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/neck/head
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/neck/head/Hat_Target
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Lshoulder
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Lshoulder/Larm
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Lshoulder/Larm/Lforearm
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Lshoulder/Larm/Lforearm/Lwrist
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Lshoulder/Larm/Lforearm/Lwrist/Lthumb
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Lshoulder/Larm/Lforearm/Lwrist/Lfingers
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Rshoulder
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm/Rwrist
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm/Rwrist/Rfingers
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm/Rwrist/Rthumb
+    m_Weight: 1
+  - m_Path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm/Rwrist/Rweaponholder
+    m_Weight: 1
+  - m_Path: pelvis/Lthigh
+    m_Weight: 1
+  - m_Path: pelvis/Lthigh/Lcalf
+    m_Weight: 1
+  - m_Path: pelvis/Lthigh/Lcalf/Lfoot
+    m_Weight: 1
+  - m_Path: pelvis/Rthigh
+    m_Weight: 1
+  - m_Path: pelvis/Rthigh/Rcalf
+    m_Weight: 1
+  - m_Path: pelvis/Rthigh/Rcalf/Rfoot
+    m_Weight: 1
+  - m_Path: mutant_mesh
+    m_Weight: 1
+  - m_Path: mutant_meshLod1
+    m_Weight: 1
+  - m_Path: mutant_meshLod2
+    m_Weight: 1
