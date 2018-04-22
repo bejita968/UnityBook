@@ -1,0 +1,11 @@
+{
+    "name": "EnemyAD",
+    "references": [
+        "PlayerAD",
+        "CommonAD"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

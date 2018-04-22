@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{683CC018-EB3B-6F8B-9270-29E9CF35CFFD}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Scripts/Enemy/MoveAgent.cs">
+    <Files>
+      <File FileName="Assets/02.Scripts/Common/FollowCam.cs" Line="39" Column="9" />
+      <File FileName="Assets/02.Scripts/Common/Shake.cs" Line="10" Column="33" />
+      <File FileName="Assets/02.Scripts/Player/FireCtrl.cs" Line="49" Column="43" />
+      <File FileName="Assets/02.Scripts/Stage/BarrelCtrl.cs" Line="94" Column="61" />
+      <File FileName="Assets/02.Scripts/Player/Damage.cs" Line="44" Column="23" />
+      <File FileName="Assets/02.Scripts/Player/PlayerCtrl.cs" Line="47" Column="16" />
+      <File FileName="Assets/02.Scripts/Enemy/EnemyAI.cs" Line="84" Column="5" />
+      <File FileName="Assets/02.Scripts/Enemy/EnemyFire.cs" Line="48" Column="66" />
+      <File FileName="Assets/02.Scripts/Enemy/MoveAgent.cs" Line="119" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
