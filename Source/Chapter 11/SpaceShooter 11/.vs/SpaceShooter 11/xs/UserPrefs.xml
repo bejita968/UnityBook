@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{3C9FE61D-C831-2C28-B658-34052F9BD098}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Scripts/Common/DataManager/GameDataObject.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Scripts/Common/GameManager.cs">
     <Files>
-      <File FileName="Assets/02.Scripts/Common/GameManager.cs" Line="136" Column="6" />
+      <File FileName="Assets/02.Scripts/Common/GameManager.cs" Line="99" Column="21" />
       <File FileName="Assets/02.Scripts/Enemy/EnemyDamage.cs" Line="70" Column="24" />
       <File FileName="Assets/02.Scripts/Common/DataManager/GameData.cs" Line="13" Column="5" />
       <File FileName="Assets/02.Scripts/Common/DataManager/ItemInfo.cs" Line="8" Column="2" />
@@ -12,7 +12,7 @@
       <File FileName="Assets/02.Scripts/Player/BulletCtrl.cs" Line="15" Column="5" />
       <File FileName="Assets/02.Scripts/Common/Drop.cs" Line="14" Column="48" />
       <File FileName="Assets/02.Scripts/Common/Drag.cs" Line="56" Column="80" />
-      <File FileName="Assets/02.Scripts/Common/DataManager/GameDataObject.cs" Line="17" Column="2" />
+      <File FileName="Assets/02.Scripts/Common/DataManager/GameDataObject.cs" Line="18" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
