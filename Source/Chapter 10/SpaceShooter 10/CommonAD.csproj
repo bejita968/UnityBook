@@ -59,6 +59,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\02.Scripts\Common\Drag.cs" />
+    <Compile Include="Assets\02.Scripts\Common\Drop.cs" />
     <Compile Include="Assets\02.Scripts\Common\FollowCam.cs" />
     <Compile Include="Assets\02.Scripts\Common\GameManager.cs" />
     <Compile Include="Assets\02.Scripts\Common\Shake.cs" />

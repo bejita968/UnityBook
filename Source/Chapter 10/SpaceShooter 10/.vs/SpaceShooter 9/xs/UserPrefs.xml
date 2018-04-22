@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{66E5D28D-7EE7-E6C8-D212-A5C64B9DC2F4}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Scripts/Enemy/EnemyDamage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Scripts/Enemy/EnemyAI.cs">
     <Files>
       <File FileName="Assets/02.Scripts/Stage/MyGizmos.cs" Line="31" Column="1" />
       <File FileName="Assets/02.Scripts/Common/GameManager.cs" Line="85" Column="39" />
@@ -9,6 +9,7 @@
       <File FileName="Assets/02.Scripts/Player/BulletCtrl.cs" Line="21" Column="6" />
       <File FileName="Assets/02.Scripts/Stage/RemoveBullet.cs" Line="20" Column="46" />
       <File FileName="Assets/02.Scripts/Enemy/EnemyDamage.cs" Line="44" Column="41" />
+      <File FileName="Assets/02.Scripts/Enemy/EnemyAI.cs" Line="44" Column="60" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -8,7 +8,8 @@
       <File FileName="Assets/02.Scripts/Player/FireCtrl.cs" Line="98" Column="10" />
       <File FileName="Assets/02.Scripts/Player/BulletCtrl.cs" Line="21" Column="6" />
       <File FileName="Assets/02.Scripts/Stage/RemoveBullet.cs" Line="20" Column="46" />
-      <File FileName="Assets/02.Scripts/Enemy/EnemyDamage.cs" Line="44" Column="41" />
+      <File FileName="Assets/02.Scripts/Enemy/EnemyDamage.cs" Line="38" Column="21" />
+      <File FileName="Assets/02.Scripts/Enemy/EnemyAI.cs" Line="44" Column="77" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

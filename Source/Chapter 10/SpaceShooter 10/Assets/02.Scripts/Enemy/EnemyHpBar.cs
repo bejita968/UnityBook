@@ -28,14 +28,13 @@ public class EnemyHpBar : MonoBehaviour
 
     void LateUpdate()
     {
-        //월드좌표를 스크린의 좌표로 변환
+        //월드 좌표를 스크린의 좌표로 변환
         var screenPos = Camera.main.WorldToScreenPoint(targetTr.position + offset);
         //카메라의 뒷쪽 영역(180도 회전)일 때 좌푯값 보정
         if (screenPos.z < 0.0f)
         {
             screenPos *= -1.0f;
         }
-
         //RectTransform 좌푯값을 전달받을 변수
         var localPos = Vector2.zero;
         //스크린 좌표를 RectTransform 기준의 좌표로 변환

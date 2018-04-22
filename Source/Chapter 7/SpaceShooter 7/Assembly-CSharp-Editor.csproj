@@ -412,6 +412,10 @@
       <Project>{683CC018-EB3B-6F8B-9270-29E9CF35CFFD}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="CommonAD.csproj">
+      <Project>{7B8F875B-D922-F58D-1050-D5FB7F490EC1}</Project>
+      <Name>CommonAD</Name>
+    </ProjectReference>
     <ProjectReference Include="EnemyAD.csproj">
       <Project>{E9501375-1B10-54BE-B690-4794A2FD41B2}</Project>
       <Name>EnemyAD</Name>
@@ -423,10 +427,6 @@
     <ProjectReference Include="StageAD.csproj">
       <Project>{0E5781E5-CCCF-B72E-FAF8-F2C2938FA769}</Project>
       <Name>StageAD</Name>
-    </ProjectReference>
-    <ProjectReference Include="CommonAD.csproj">
-      <Project>{7B8F875B-D922-F58D-1050-D5FB7F490EC1}</Project>
-      <Name>CommonAD</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

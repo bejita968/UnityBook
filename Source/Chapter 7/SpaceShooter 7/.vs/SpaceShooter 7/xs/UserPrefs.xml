@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{683CC018-EB3B-6F8B-9270-29E9CF35CFFD}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Scripts/Enemy/MoveAgent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Scripts/Common/FollowCam.cs">
     <Files>
-      <File FileName="Assets/02.Scripts/Common/FollowCam.cs" Line="39" Column="9" />
+      <File FileName="Assets/02.Scripts/Common/FollowCam.cs" Line="13" Column="32" />
       <File FileName="Assets/02.Scripts/Common/Shake.cs" Line="10" Column="33" />
       <File FileName="Assets/02.Scripts/Player/FireCtrl.cs" Line="49" Column="43" />
       <File FileName="Assets/02.Scripts/Stage/BarrelCtrl.cs" Line="94" Column="61" />
